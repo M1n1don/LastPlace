@@ -1,0 +1,12 @@
+name: LastPlace
+version: ${project.version}
+main: dev.m1n1don.lastplace.LastPlace
+api-version: 1.16
+author: Minidon
+
+commands:
+  lastteleport:
+    description: No description.
+    aliases:
+      - lteleport
+      - ltp
